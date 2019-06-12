@@ -1,7 +1,6 @@
-const http = require('http');
 const express = require('express');
-const authRouter = require('auth');
-
+const app = express();
+const authRouter = require('./auth');
 const port = 9000
 
 const homeHandler = (req, res) =>{
