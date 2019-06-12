@@ -1,0 +1,20 @@
+{
+  "name": "clase_17",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Jefer Jacobo Davila Rodriguez <jedayr9074@hotmail.com>",
+  "license": "MIT"
+}
